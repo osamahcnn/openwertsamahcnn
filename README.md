@@ -9,9 +9,9 @@
 
 | العنصر | القيمة / المواصفات |
 | :--- | :--- |
-| **اسم النظام (Hostname)** | `OSAMAH_TECHNOLOGY` |
+| **اسم النظام (Hostname)** | `ALHADI_TECHNOLOGY` |
 | **معمارية المعالج (Architecture)** | `AArch64 Processor (4 core) @ 1340 MHz` |
-| **إصدار السوفتوير (Firmware Version)** | `SAKHR_TECHNOLOGY / LuCI openwrt-23.05 branch` |
+| **إصدار السوفتوير (Firmware Version)** | `ALHADI_TECHNOLOGY / LuCI openwrt-23.05 branch` |
 | **النواة (Kernel Version)** | `5.15.xx` |
 | **الحالة الأمنية والشبكية** | مخصص لإدارة الشبكات الكبيرة، التحميل المزدوج، وحماية السيرفرات |
 
