@@ -9,7 +9,7 @@
 
 | العنصر | القيمة / المواصفات |
 | :--- | :--- |
-| **اسم النظام (Hostname)** | `SAKHR_TECHNOLOGY` |
+| **اسم النظام (Hostname)** | `OSAMAH_TECHNOLOGY` |
 | **معمارية المعالج (Architecture)** | `AArch64 Processor (4 core) @ 1340 MHz` |
 | **إصدار السوفتوير (Firmware Version)** | `SAKHR_TECHNOLOGY / LuCI openwrt-23.05 branch` |
 | **النواة (Kernel Version)** | `5.15.xx` |
